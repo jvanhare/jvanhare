@@ -1,16 +1,21 @@
-### Hi there 👋
+# About
+Since June 2020, I am a research engineer in the DMPE/PLM team
+at [ONERA](https://www.onera.fr/en), [The French Aerospace Lab](https://www.onera.fr/en).
+This team is composed of the main developpers of the [CEDRE](https://cedre.onera.fr/) suite.
 
-<!--
-**jvanhare/jvanhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My reasearch interests lie in numerical methods and tools for Computational Fluid Dynamics (CFD).
+I am working on high-order and high-fidelity numerical methods and
+high-order anisotropic mesh adaptation to perform Large Eddy Simulation around complex geometries.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computational Fluid Dynamics (CFD)
+* Steady and unsteady Navier-Stokes simulations on industrial configurations
+* High-order and high-fidelity numerical methods
+* Anisotropic unstructured mesh adaptation
+* High-order mesh adaptation
+* Finite Volume Method (FVM) and Finite Element Method (FEM)
+* Reynolds-Averaged Navier–Stokes (RANS) simulations
+* Large Eddy Simulation (LES)
+* High Performance Computing (HPC)
+* Homogeneous and Heterogeneous System Architectures (HSA)
