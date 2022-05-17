@@ -12,8 +12,7 @@ high-order anisotropic mesh adaptation to perform Large Eddy Simulation around c
 * Computational Fluid Dynamics (CFD)
 * Steady and unsteady Navier-Stokes simulations on industrial configurations
 * High-order and high-fidelity numerical methods
-* Anisotropic unstructured mesh adaptation
-* High-order mesh adaptation
+* (High-order) anisotropic unstructured mesh adaptation
 * Finite Volume Method (FVM) and Finite Element Method (FEM)
 * Reynolds-Averaged Navier–Stokes (RANS) simulations
 * Large Eddy Simulation (LES)
