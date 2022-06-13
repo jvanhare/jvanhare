@@ -9,12 +9,30 @@ high-order anisotropic mesh adaptation to perform Large Eddy Simulation around c
 
 ## Research interests
 
-* Computational Fluid Dynamics (CFD)
-* Steady and unsteady Navier-Stokes simulations on industrial configurations
-* High-order and high-fidelity numerical methods
-* (High-order) anisotropic unstructured mesh adaptation
-* Finite Volume Method (FVM) and Finite Element Method (FEM)
 * Reynolds-Averaged Navier–Stokes (RANS) simulations
 * Large Eddy Simulation (LES)
 * High Performance Computing (HPC)
-* Homogeneous and Heterogeneous System Architectures (HSA)
+
+### Numerical schemes for Computational Fluid Dynamics (CFD)
+
+* Finite Volume Method (FVM)
+* Finite Element Method (FEM)
+* Discontinuous Galerkin Method (DGM)
+* Spectral Difference Method (SDM)
+* Flux Reconstruction Method (FRM)
+* Cell-centered and cell-vertex discretizations
+* High-order and high-fidelity numerical methods
+
+### Meshing technology
+
+* Simplicial mesh generation
+* Anisotropic unstructured mesh adaptation
+
+### Applications fields
+
+* Steady and unsteady Navier-Stokes simulations on industrial aeronautic configurations
+* Fluid Structure Interactions (FSI)
+* Blast for security and defense
+* Sonic boom prediction
+* Hypersonic flows
+* Multi-species reacting flows
