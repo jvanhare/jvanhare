@@ -9,10 +9,6 @@ high-order anisotropic mesh adaptation to perform Large Eddy Simulation around c
 
 ## Research interests
 
-* Reynolds-Averaged Navier–Stokes (RANS) simulations
-* Large Eddy Simulation (LES)
-* High Performance Computing (HPC)
-
 ### Numerical schemes for Computational Fluid Dynamics (CFD)
 
 * Finite Volume Method (FVM)
@@ -27,6 +23,20 @@ high-order anisotropic mesh adaptation to perform Large Eddy Simulation around c
 
 * Simplicial mesh generation
 * Anisotropic unstructured mesh adaptation
+
+### Physical models
+
+* Advection-diffusion
+* Linear elasticity
+* Reynolds-Averaged Navier–Stokes (RANS)
+* Large Eddy Simulation (LES)
+
+### High Performance Computing (HPC)
+
+* Homogeneous and Heterogeneous System Architectures (HSA)
+* Multithreading, cache blocking, vectorization
+* Message Passage Interface (MPI)
+* General-Purpose Graphics Processing Unit (GPGPU)
 
 ### Applications fields
 
