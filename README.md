@@ -38,7 +38,7 @@ high-order anisotropic mesh adaptation to perform Large Eddy Simulation around c
 * Message Passage Interface (MPI)
 * General-Purpose Graphics Processing Unit (GPGPU)
 
-### Applications fields
+### Application fields
 
 * Steady and unsteady Navier-Stokes simulations on industrial aeronautic configurations
 * Fluid Structure Interactions (FSI)
